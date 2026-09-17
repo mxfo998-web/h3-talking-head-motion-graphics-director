@@ -1,0 +1,7 @@
+interface:
+  display_name: "H3 口播动态图形导演"
+  short_description: "为 H3 口播视频编排悬浮文字、图标、界面和信息图动画"
+  default_prompt: "Use $h3-talking-head-motion-graphics-director to turn this presenter image and script into a lifelike MiniMax H3 talking-head prompt with synchronized motion graphics."
+
+policy:
+  allow_implicit_invocation: true
